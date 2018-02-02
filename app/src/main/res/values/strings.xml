@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MalwareSMS</string>
+    <string name="update_sms_list">Reload list</string>
+    <string name="reload_word">Reload word</string>
+    <string name="word_to_search">Word to search</string>
+    <string name="submit">Submit</string>
+</resources>

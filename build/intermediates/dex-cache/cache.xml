@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/berangerelatouche/.android/build-cache/8f418e005dc07728215523eda9d748d1ae78b986/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/berangerelatouche/Downloads/Android-InsecureBankv2-master/MalwareSMS/app/build/intermediates/pre-dexed/debug/classes_d4dd881c07a27eed41171bafd64bb7fdbc9e4b50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/berangerelatouche/.android/build-cache/54c8a0cdefcefe26af38a08e6de839d72bd4c619/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/berangerelatouche/Downloads/Android-InsecureBankv2-master/MalwareSMS/app/build/intermediates/pre-dexed/debug/classes_1be6357a9382ebe2da25ef95a349ea1cabe29a25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/berangerelatouche/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/berangerelatouche/Downloads/Android-InsecureBankv2-master/MalwareSMS/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_98612dbcfd8b5088c0a6c67fc63484713354d5a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/berangerelatouche/.android/build-cache/7d37146821db69d4f302a513e180a7a8587611e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/berangerelatouche/Downloads/Android-InsecureBankv2-master/MalwareSMS/app/build/intermediates/pre-dexed/debug/classes_998f711ac0b4bc9e7a7f7e83fc25262495b1b380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/berangerelatouche/.android/build-cache/a95fc8d2b8fae3a32bd80e5914b26eb3038832aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/berangerelatouche/Downloads/Android-InsecureBankv2-master/MalwareSMS/app/build/intermediates/pre-dexed/debug/classes_5aba118cd30aff3f4f34f572149b36794cdece88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/berangerelatouche/.android/build-cache/238ced6f415e7378198007139ea7bcb33ab2d987/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/berangerelatouche/Downloads/Android-InsecureBankv2-master/MalwareSMS/app/build/intermediates/pre-dexed/debug/classes_abc6d5334c7bd8d06e6f4f5b60fd04ca67505594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/berangerelatouche/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/berangerelatouche/Downloads/Android-InsecureBankv2-master/MalwareSMS/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_ad09e8b7575fd508341b4e394cf4409a506fb9b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/berangerelatouche/.android/build-cache/34ddf51c2f52a31d6dbc836bf494c91d7ba02276/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/berangerelatouche/Downloads/Android-InsecureBankv2-master/MalwareSMS/app/build/intermediates/pre-dexed/debug/classes_70eef79aefec62b51cb23d4bd06a911e182aaafe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/berangerelatouche/.android/build-cache/e42c3eec4323549f6f7b692e1587ba6d0b7c6507/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/berangerelatouche/Downloads/Android-InsecureBankv2-master/MalwareSMS/app/build/intermediates/pre-dexed/debug/classes_389ccc614d3a81c62f3ad5277356fb5490776631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/berangerelatouche/.android/build-cache/967129af11ecbd9edcce4ed88648f1d7333368ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/berangerelatouche/Downloads/Android-InsecureBankv2-master/MalwareSMS/app/build/intermediates/pre-dexed/debug/classes_9197fb2eb4df320ec3af97c3bd6af0ede8857ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/berangerelatouche/.android/build-cache/7b1ae2bcfa053d4436f4a3e1384fb8639e46775c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/berangerelatouche/Downloads/Android-InsecureBankv2-master/MalwareSMS/app/build/intermediates/pre-dexed/debug/classes_968a6dbd89e3f2ddff21dfdae7f89e7d44051273.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/berangerelatouche/.android/build-cache/25ac876c695750d83d757af6483b61ce95bb5186/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/berangerelatouche/Downloads/Android-InsecureBankv2-master/MalwareSMS/app/build/intermediates/pre-dexed/debug/classes_6fefc9c3a9463b31f00d9ec5fa78fe01bd1dafdf.jar" />
+    </item>
+
+</items>
